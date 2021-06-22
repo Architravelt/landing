@@ -1,0 +1,15 @@
+.card-holder {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.card img {
+  height: 130px;
+}
+
+.card {
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  padding: 16px;
+}

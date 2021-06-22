@@ -1,0 +1,24 @@
+.banner {
+  height: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  color: white;
+  background-size: cover;
+}
+
+.banner-container {
+  text-align: justify;
+  padding: 16px;
+
+}
+
+.banner-container p {
+  color: #b5b6b7;
+  font-size: larger;
+  margin-bottom: 36px
+}
+
